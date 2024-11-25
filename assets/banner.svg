@@ -1,0 +1,61 @@
+<svg width="1280" height="240" viewBox="0 0 1280 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Sid’s Daily</title>
+  <desc id="desc">An editorial profile masthead for Sidakpreet Singh.</desc>
+
+  <defs>
+    <pattern id="editorialDots" width="10" height="10" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.25" fill="#A5482D"/>
+    </pattern>
+    <clipPath id="page">
+      <rect width="1280" height="240"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#page)">
+    <rect width="1280" height="240" fill="#F2E8D5"/>
+    <circle cx="1192" cy="132" r="112" fill="url(#editorialDots)" opacity="0.34"/>
+    <rect x="1140" y="58" width="140" height="160" fill="#F2E8D5" opacity="0.64"/>
+
+    <g fill="#1C1814">
+      <text x="40" y="34" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="28" font-weight="700">Sid’s Daily</text>
+      <text x="292" y="31" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="500" letter-spacing="1.05">Independent profile / issue 01</text>
+      <text x="1058" y="31" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="500" letter-spacing="1.05">Read time / one glance</text>
+
+      <line x1="40" y1="45" x2="1240" y2="45" stroke="#1C1814" stroke-width="2"/>
+      <line x1="40" y1="50" x2="1240" y2="50" stroke="#1C1814" stroke-width="0.75"/>
+
+      <text x="40" y="96" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="35" font-weight="700" letter-spacing="-0.35">Product person tokenmaxxes.</text>
+      <text x="40" y="137" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="35" font-weight="700" letter-spacing="-0.35">Compliments keep the lights on.</text>
+      <rect x="40" y="156" width="82" height="5" fill="#A5482D"/>
+
+      <text x="40" y="187" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="500" letter-spacing="0.15">Filed under: product / tokens / internet habits</text>
+      <text x="40" y="208" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="13.5" font-style="italic" fill="#6E6256">The footnotes are doing most of the work.</text>
+
+      <line x1="700" y1="65" x2="700" y2="208" stroke="#1C1814" stroke-width="1"/>
+
+      <text x="730" y="96" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="34" font-weight="700" letter-spacing="-0.2">Sidakpreet Singh</text>
+      <text x="730" y="121" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="500">strategy × software × an irresponsible relationship</text>
+      <text x="730" y="139" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="500">with context windows.</text>
+
+      <text x="1181" y="79" fill="#6E6256" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="9.5" font-weight="500" letter-spacing="0.8">Issue</text>
+      <text x="1157" y="137" fill="#A5482D" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="66" font-weight="700">01</text>
+
+      <line x1="730" y1="154" x2="1215" y2="154" stroke="#1C1814" stroke-width="0.75"/>
+
+      <text x="730" y="175" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="500" letter-spacing="0.75" fill="#6E6256">Current beat</text>
+      <text x="730" y="196" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="18" font-weight="700">Product</text>
+
+      <text x="882" y="175" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="500" letter-spacing="0.75" fill="#6E6256">Token policy</text>
+      <text x="882" y="196" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="18" font-weight="700">Maximal</text>
+
+      <text x="1034" y="175" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="500" letter-spacing="0.75" fill="#6E6256">Power source</text>
+      <text x="1034" y="196" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="18" font-weight="700">Curiosity</text>
+
+      <line x1="40" y1="219" x2="1240" y2="219" stroke="#1C1814" stroke-width="1"/>
+      <text x="40" y="234" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="9.5" font-weight="500" letter-spacing="0.7">sidakpreetsingh.com</text>
+      <text x="1205" y="234" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="9.5" font-weight="500" letter-spacing="0.7">p. 01</text>
+    </g>
+  </g>
+
+  <rect x="0.75" y="0.75" width="1278.5" height="238.5" stroke="#1C1814" stroke-width="1.5"/>
+</svg>
