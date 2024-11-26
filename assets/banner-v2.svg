@@ -1,4 +1,4 @@
-<svg width="960" height="482" viewBox="0 0 960 482" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="960" height="502" viewBox="0 0 960 502" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" data-version="2">
   <title id="title">Sid’s Daily</title>
   <desc id="desc">An editorial profile masthead for Sidakpreet Singh.</desc>
 
@@ -7,12 +7,12 @@
       <circle cx="2" cy="2" r="1.25" fill="#A5482D"/>
     </pattern>
     <clipPath id="page">
-      <rect width="960" height="482"/>
+      <rect width="960" height="502"/>
     </clipPath>
   </defs>
 
   <g clip-path="url(#page)">
-    <rect width="960" height="482" fill="#F2E8D5"/>
+    <rect width="960" height="502" fill="#F2E8D5"/>
     <circle cx="866" cy="160" r="126" fill="url(#editorialDots)" opacity="0.32"/>
     <rect x="806" y="87" width="154" height="184" fill="#F2E8D5" opacity="0.7"/>
 
@@ -37,25 +37,28 @@
       <line x1="36" y1="304" x2="924" y2="304" stroke="#1C1814" stroke-width="1"/>
 
       <text x="36" y="354" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="42" font-weight="700" letter-spacing="-0.25">Sidakpreet Singh</text>
-      <text x="36" y="384" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="17.5" font-weight="500">strategy × software × an irresponsible relationship</text>
-      <text x="36" y="410" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="17.5" font-weight="500">with context windows.</text>
+      <text x="36" y="392" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="17.5" font-weight="500">strategy × software × an irresponsible relationship</text>
+      <text x="36" y="418" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="17.5" font-weight="500">with context windows.</text>
 
-      <line x1="576" y1="323" x2="576" y2="428" stroke="#1C1814" stroke-width="1"/>
+      <line x1="576" y1="323" x2="576" y2="440" stroke="#1C1814" stroke-width="1"/>
 
-      <text x="604" y="343" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="14.5" font-weight="500" letter-spacing="0.8" fill="#6E6256">Current beat</text>
-      <text x="604" y="375" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="26" font-weight="700">Product</text>
+      <text x="604" y="344" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="500" letter-spacing="0.8" fill="#6E6256">Current beat</text>
+      <text x="604" y="373" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="24" font-weight="700">Product</text>
 
-      <text x="772" y="343" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="14.5" font-weight="500" letter-spacing="0.8" fill="#6E6256">Token policy</text>
-      <text x="772" y="375" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="26" font-weight="700">Maximal</text>
+      <text x="772" y="344" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="500" letter-spacing="0.8" fill="#6E6256">Token policy</text>
+      <text x="772" y="373" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="24" font-weight="700">Maximal</text>
 
-      <text x="604" y="405" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="14.5" font-weight="500" letter-spacing="0.8" fill="#6E6256">Power source</text>
-      <text x="604" y="433" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="26" font-weight="700">Curiosity</text>
+      <text x="604" y="405" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="500" letter-spacing="0.8" fill="#6E6256">Power source</text>
+      <text x="604" y="434" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="24" font-weight="700">Curiosity</text>
 
-      <line x1="36" y1="449" x2="924" y2="449" stroke="#1C1814" stroke-width="1"/>
-      <text x="36" y="472" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="500" letter-spacing="0.8">sidakpreetsingh.com</text>
-      <text x="879" y="472" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="500" letter-spacing="0.8">p. 01</text>
+      <text x="772" y="405" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="500" letter-spacing="0.8" fill="#6E6256">Working mode</text>
+      <text x="772" y="434" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="24" font-weight="700">Building</text>
+
+      <line x1="36" y1="458" x2="924" y2="458" stroke="#1C1814" stroke-width="1"/>
+      <text x="36" y="486" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="500" letter-spacing="0.8">sidakpreetsingh.com</text>
+      <text x="879" y="486" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="500" letter-spacing="0.8">p. 01</text>
     </g>
   </g>
 
-  <rect x="0.75" y="0.75" width="958.5" height="480.5" stroke="#1C1814" stroke-width="1.5"/>
+  <rect x="0.75" y="0.75" width="958.5" height="500.5" stroke="#1C1814" stroke-width="1.5"/>
 </svg>

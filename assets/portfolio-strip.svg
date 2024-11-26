@@ -1,12 +1,12 @@
-<svg width="960" height="114" viewBox="0 0 960 114" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="960" height="88" viewBox="0 0 960 88" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">The full edition</title>
   <desc id="desc">A link to Sidakpreet Singh’s complete portfolio.</desc>
 
-  <rect width="960" height="114" fill="#1C1814"/>
-  <rect x="0.75" y="0.75" width="958.5" height="112.5" stroke="#F2E8D5" stroke-opacity="0.48" stroke-width="1.5"/>
+  <rect width="960" height="88" fill="#1C1814"/>
+  <rect x="0.75" y="0.75" width="958.5" height="86.5" stroke="#F2E8D5" stroke-opacity="0.48" stroke-width="1.5"/>
 
-  <text x="32" y="72" fill="#F2E8D5" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="38" font-weight="700">The full edition</text>
-  <line x1="342" y1="24" x2="342" y2="90" stroke="#A5482D" stroke-width="4"/>
-  <text x="370" y="70" fill="#F2E8D5" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="500">Visit sidakpreetsingh.com →</text>
-  <text x="728" y="68" fill="#CBBEAA" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="500" letter-spacing="0.9">Experience / work / writing</text>
+  <text x="32" y="56" fill="#F2E8D5" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="31" font-weight="700">The full edition</text>
+  <line x1="310" y1="17" x2="310" y2="71" stroke="#A5482D" stroke-width="4"/>
+  <text x="338" y="55" fill="#F2E8D5" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="500">Visit sidakpreetsingh.com →</text>
+  <text x="728" y="53" fill="#CBBEAA" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="12.5" font-weight="500" letter-spacing="0.9">Experience / work / writing</text>
 </svg>

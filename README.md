@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Sid’s Daily profile front page" width="100%" />
+  <img src="./assets/banner-v2.svg" alt="Sid’s Daily profile front page" width="100%" />
 </p>
 
 <p align="center">
