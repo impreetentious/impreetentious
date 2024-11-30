@@ -19,7 +19,7 @@
     <g fill="#1C1814">
       <text x="36" y="50" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="42" font-weight="700">Sid’s Daily</text>
       <text x="300" y="45" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="500" letter-spacing="1.1">Independent profile / issue 01</text>
-      <text x="742" y="45" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="500" letter-spacing="1.1">Read time / one glance</text>
+      <text x="924" y="45" text-anchor="end" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="500" letter-spacing="1.1">Read time / one glance</text>
 
       <line x1="36" y1="68" x2="924" y2="68" stroke="#1C1814" stroke-width="2.5"/>
       <line x1="36" y1="75" x2="924" y2="75" stroke="#1C1814" stroke-width="1"/>
@@ -31,8 +31,8 @@
       <text x="36" y="253" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="500" letter-spacing="0.15">Filed under: product / tokens / internet habits</text>
       <text x="36" y="282" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="20" font-style="italic" fill="#6E6256">The footnotes are doing most of the work.</text>
 
-      <text x="854" y="111" fill="#6E6256" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="500" letter-spacing="0.9">Issue</text>
-      <text x="815" y="190" fill="#A5482D" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="88" font-weight="700">01</text>
+      <text x="866" y="111" text-anchor="middle" fill="#6E6256" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="500" letter-spacing="0.9">Issue</text>
+      <text x="866" y="190" text-anchor="middle" fill="#A5482D" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="88" font-weight="700">01</text>
 
       <line x1="36" y1="304" x2="924" y2="304" stroke="#1C1814" stroke-width="1"/>
 
@@ -56,7 +56,7 @@
 
       <line x1="36" y1="458" x2="924" y2="458" stroke="#1C1814" stroke-width="1"/>
       <text x="36" y="486" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="500" letter-spacing="0.8">sidakpreetsingh.com</text>
-      <text x="879" y="486" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="500" letter-spacing="0.8">p. 01</text>
+      <text x="924" y="486" text-anchor="end" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="500" letter-spacing="0.8">p. 01</text>
     </g>
   </g>
 

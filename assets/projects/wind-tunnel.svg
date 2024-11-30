@@ -1,26 +1,22 @@
-<svg width="960" height="326" viewBox="0 0 960 326" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="960" height="220" viewBox="0 0 960 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Wind Tunnel</title>
   <desc id="desc">An editorial project feature for Wind Tunnel.</desc>
 
-  <rect width="960" height="326" fill="#F2E8D5"/>
+  <rect width="960" height="220" fill="#F2E8D5"/>
   <rect width="960" height="6" fill="#A5482D"/>
-  <rect x="0.75" y="0.75" width="958.5" height="324.5" stroke="#1C1814" stroke-width="1.5"/>
+  <rect x="0.75" y="0.75" width="958.5" height="218.5" stroke="#1C1814" stroke-width="1.5"/>
 
   <g fill="#1C1814">
     <text x="36" y="30" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="14" font-style="italic" letter-spacing="0.3">Feature 02 / pricing</text>
-    <text x="858" y="29" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500">Vol. 02</text>
+    <text x="924" y="29" text-anchor="end" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500">Vol. 02</text>
 
     <text x="36" y="75" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="36" font-weight="700">Wind Tunnel</text>
     <line x1="36" y1="90" x2="924" y2="90" stroke="#1C1814" stroke-width="1"/>
 
     <text x="36" y="136" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="28" font-weight="700">Test the price before the market does.</text>
 
-    <text x="36" y="178" fill="#342C26" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="20.5">A simulation workspace for pressure-testing SaaS pricing before launch. Model buyer</text>
-    <text x="36" y="206" fill="#342C26" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="20.5">segments plus willingness to pay then design tiers with feature fences or add-ons. See how</text>
-    <text x="36" y="234" fill="#342C26" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="20.5">customers self-select before a number reaches the pricing page.</text>
-
-    <rect x="1.5" y="260" width="957" height="64.5" fill="#1C1814"/>
-    <text x="36" y="300" fill="#F2E8D5" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="600">Open the project →</text>
-    <text x="790" y="298" fill="#CBBEAA" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="500">Repository / 02</text>
+    <rect x="1.5" y="164" width="957" height="54.5" fill="#1C1814"/>
+    <text x="36" y="199" fill="#F2E8D5" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="600">Open the project →</text>
+    <text x="924" y="197" text-anchor="end" fill="#CBBEAA" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="500">Repository / 02</text>
   </g>
 </svg>

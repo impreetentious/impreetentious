@@ -1,26 +1,22 @@
-<svg width="960" height="326" viewBox="0 0 960 326" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="960" height="220" viewBox="0 0 960 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Game Theory Sandbox</title>
   <desc id="desc">An editorial project feature for Game Theory Sandbox.</desc>
 
-  <rect width="960" height="326" fill="#F2E8D5"/>
+  <rect width="960" height="220" fill="#F2E8D5"/>
   <rect width="960" height="6" fill="#A5482D"/>
-  <rect x="0.75" y="0.75" width="958.5" height="324.5" stroke="#1C1814" stroke-width="1.5"/>
+  <rect x="0.75" y="0.75" width="958.5" height="218.5" stroke="#1C1814" stroke-width="1.5"/>
 
   <g fill="#1C1814">
     <text x="36" y="30" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="14" font-style="italic" letter-spacing="0.3">Feature 03 / strategy</text>
-    <text x="858" y="29" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500">Vol. 03</text>
+    <text x="924" y="29" text-anchor="end" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500">Vol. 03</text>
 
     <text x="36" y="75" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="36" font-weight="700">Game Theory Sandbox</text>
     <line x1="36" y1="90" x2="924" y2="90" stroke="#1C1814" stroke-width="1"/>
 
     <text x="36" y="136" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="28" font-weight="700">Play the game. Then reveal the theory.</text>
 
-    <text x="36" y="178" fill="#342C26" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="20.5">An interactive way to learn game theory by playing first. Explore canonical games</text>
-    <text x="36" y="206" fill="#342C26" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="20.5">through repeated rounds then watch strategies compete across seeded tournaments or</text>
-    <text x="36" y="234" fill="#342C26" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="20.5">evolutionary simulations. Build custom payoff matrices with exact analytical feedback.</text>
-
-    <rect x="1.5" y="260" width="957" height="64.5" fill="#1C1814"/>
-    <text x="36" y="300" fill="#F2E8D5" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="600">Open the project →</text>
-    <text x="790" y="298" fill="#CBBEAA" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="500">Repository / 03</text>
+    <rect x="1.5" y="164" width="957" height="54.5" fill="#1C1814"/>
+    <text x="36" y="199" fill="#F2E8D5" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="600">Open the project →</text>
+    <text x="924" y="197" text-anchor="end" fill="#CBBEAA" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="500">Repository / 03</text>
   </g>
 </svg>
