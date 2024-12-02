@@ -1,10 +1,10 @@
-<svg width="960" height="220" viewBox="0 0 960 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="960" height="326" viewBox="0 0 960 326" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Nexus IQ</title>
   <desc id="desc">An editorial project feature for Nexus IQ.</desc>
 
-  <rect width="960" height="220" fill="#F2E8D5"/>
+  <rect width="960" height="326" fill="#F2E8D5"/>
   <rect width="960" height="6" fill="#A5482D"/>
-  <rect x="0.75" y="0.75" width="958.5" height="218.5" stroke="#1C1814" stroke-width="1.5"/>
+  <rect x="0.75" y="0.75" width="958.5" height="324.5" stroke="#1C1814" stroke-width="1.5"/>
 
   <g fill="#1C1814">
     <text x="36" y="30" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="14" font-style="italic" letter-spacing="0.3">Feature 01 / research</text>
@@ -15,8 +15,12 @@
 
     <text x="36" y="136" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="28" font-weight="700">Qualitative research gets an evidence desk.</text>
 
-    <rect x="1.5" y="164" width="957" height="54.5" fill="#1C1814"/>
-    <text x="36" y="199" fill="#F2E8D5" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="600">Open the project →</text>
-    <text x="924" y="197" text-anchor="end" fill="#CBBEAA" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="500">Repository / 01</text>
+    <text x="36" y="178" fill="#342C26" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="20.5">A local-first workspace for turning qualitative text into calibrated measurement. Bring in</text>
+    <text x="36" y="206" fill="#342C26" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="20.5">surveys, documents or transcripts then build research instruments. Compare them with</text>
+    <text x="36" y="234" fill="#342C26" font-family="Baskerville, 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="20.5">human-coded evidence before exporting reproducible reports.</text>
+
+    <rect x="1.5" y="260" width="957" height="64.5" fill="#1C1814"/>
+    <text x="36" y="300" fill="#F2E8D5" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="600">Open the project →</text>
+    <text x="924" y="298" text-anchor="end" fill="#CBBEAA" font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="500">Repository / 01</text>
   </g>
 </svg>
