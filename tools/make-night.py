@@ -23,9 +23,6 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 SVGS = [
     "assets/banner.svg",
     "assets/portfolio-strip.svg",
-    "assets/projects/nexus-iq.svg",
-    "assets/projects/wind-tunnel.svg",
-    "assets/projects/gt-sandbox.svg",
 ]
 
 # light -> night. Verified for WCAG AA against the night page colour (#14110E):

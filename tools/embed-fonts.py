@@ -30,9 +30,6 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 SVGS = [
     "assets/banner.svg",
     "assets/portfolio-strip.svg",
-    "assets/projects/nexus-iq.svg",
-    "assets/projects/wind-tunnel.svg",
-    "assets/projects/gt-sandbox.svg",
 ]
 
 # Old proprietary stacks -> new embeddable ones. Fallbacks stay as a safety
